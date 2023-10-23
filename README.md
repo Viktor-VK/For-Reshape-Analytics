@@ -13,7 +13,7 @@
 9. Преобразовал данные к необходимому по ТЗ виду
 10. Экспортировал результаты в Excel и Loginom
 11. Построил график в кубе, согласно ТЗ
-12. Bonus. Построил 2 дашборда в Power BI
+12. *Bonus*. Построил [2 дашборда](https://github.com/Viktor-VK/For-Reshape-Analytics/blob/main/Дашборд%20с%20прогнозами.pbix) в десктопной версии Power BI
 
 Все этапы выполнения подроно расписаны в приложенном [ноутбуке](https://github.com/Viktor-VK/For-Reshape-Analytics/blob/main/Прототип%20системы%20прогнозирования.ipynb).
 
